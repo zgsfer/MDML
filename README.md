@@ -18,7 +18,7 @@ The code is developed and tested under the following environment:
 - Tensorflow 1.14
 
 ## Usage
-Step one, use aug_data.py in the tool folder for offline image augmentation.
+Step one, use aug_data.py in the tool folder for offline image augmentation. shape_predictor_68_face_landmarks.dat download from 链接: https://pan.baidu.com/s/1NR9s7a-XO9vXgTxJOCLeiQ?pwd=te6j 提取码: te6j
 
 Step two, use make_txt.py in the tool folder to generate a txt file containing paths to the images.
 
