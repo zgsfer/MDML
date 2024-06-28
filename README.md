@@ -1,4 +1,4 @@
-# Video-Based Human Pose Regression via Decoupled Space-Time Aggregation
+# Multi-threshold Deep Metric Learning for Facial Expression Recognition
 
 This repo is the official implementation for **Multi-threshold Deep Metric Learning for Facial
 Expression Recognition** The paper has been accepted to Pattern Recognition
