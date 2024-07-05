@@ -18,7 +18,7 @@ The code is developed and tested under the following environment:
 - Tensorflow 1.14
 
 ## Usage
-Step one, use aug_data.py in the tool folder for offline image augmentation. shape_predictor_68_face_landmarks.dat download from 链接: https://pan.baidu.com/s/1NR9s7a-XO9vXgTxJOCLeiQ?pwd=te6j 提取码: te6j
+Step one, use aug_data.py in the tool folder for offline image augmentation. shape_predictor_68_face_landmarks.dat download from the link: https://pan.baidu.com/s/1NR9s7a-XO9vXgTxJOCLeiQ?pwd=te6j extraction code: te6j
 
 Step two, use make_txt.py in the tool folder to generate a txt file containing paths to the images.
 
@@ -28,8 +28,8 @@ Test： Modify the code paths according to the generated txt file path, then exe
 
 pre_model folder and model folder can download form Baidu Netdisk  
 
-链接：https://pan.baidu.com/s/1NTMgYs4IHfFLaYGYJa_fLw?pwd=bmy5 
-提取码：bmy5
+link：https://pan.baidu.com/s/1NTMgYs4IHfFLaYGYJa_fLw?pwd=bmy5 
+extraction code：bmy5
 
 ## Citations
 
