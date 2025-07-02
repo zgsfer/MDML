@@ -32,6 +32,15 @@ link：https://pan.baidu.com/s/1NTMgYs4IHfFLaYGYJa_fLw?pwd=bmy5
 extraction code：bmy5
 
 ## Citations
-
-
+If you find our paper useful in your research, please consider citing:
+```bash
+@article{yang_2024_PR,
+  title     = {Multi-threshold deep metric learning for facial expression recognition},
+  author    = {Yang, Wenwu and Yu, Jinyi and Chen, Tuo and Liu, Zhenguang and Wang, Xun and Shen, Jianbing},
+  journal   = {Pattern Recognition},
+  volume    = {156},
+  pages     = {110711},
+  year      = {2024}
+}
+```
 
